@@ -1,5 +1,5 @@
 # HangmanGame
-this is a program i made for school called hangmanGame, its a game where you can guess wrong 6 times and the limps of the hangman gets added everytime you guess wrong. it is possible to make your own words and sent to a friend, as of now the word are (cake, tommygun, monitor, sunrise and sundown). have a great day :)
+this is a program i made for school called hangmanGame that runs in the C# Console, its a game where you can guess wrong 6 times and the limps of the hangman gets added everytime you guess wrong. it is possible to make your own words and sent to a friend, as of now the word are (cake, tommygun, monitor, sunrise and sundown). have a great day :)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 using System;
